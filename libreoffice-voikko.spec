@@ -2,7 +2,7 @@ Summary:	Multi language spellchecker, grammar checker and hyphenator for LibreOf
 Summary(pl.UTF-8):	Wielojęzyczne narzędzie do sprawdzania pisowni i gramatyki oraz przenoszenia wyrazów dla LibreOffice
 Name:		libreoffice-voikko
 Version:	5.0
-Release:	1
+Release:	2
 License:	MPL v2.0
 Group:		Applications/Text
 #Source0Download: https://github.com/voikko/libreoffice-voikko/releases
